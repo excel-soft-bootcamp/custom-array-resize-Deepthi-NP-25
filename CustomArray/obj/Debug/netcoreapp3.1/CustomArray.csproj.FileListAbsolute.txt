@@ -1,0 +1,13 @@
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.exe
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.deps.json
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.runtimeconfig.json
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.runtimeconfig.dev.json
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.dll
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\bin\Debug\netcoreapp3.1\CustomArray.pdb
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.csprojAssemblyReference.cache
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.AssemblyInfoInputs.cache
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.AssemblyInfo.cs
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.csproj.CoreCompileInputs.cache
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.dll
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.pdb
+C:\Users\deepthi.np\source\repos\DEMO14\CustomArray\obj\Debug\netcoreapp3.1\CustomArray.genruntimeconfig.cache
